@@ -1,1 +1,1 @@
-{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[{"name":"testcase.test_open_baidu","children":[{"name":"test_open_baidu","uid":"4099ad2c49e0b4d1","parentUid":"4327d9080e605dc114d9f925a1c15092","status":"passed","time":{"start":1709903502680,"stop":1709903502905,"duration":225},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"testcase.test_open_baidu"}]}
+{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[]}
